@@ -1,0 +1,19 @@
+{
+    "title" : "翻译",
+    "size"  : [400, 100],
+    
+    "input_box" : {
+        "width": 150,
+        "font" : ["Arial", 16]
+    },
+    "output_box" : {
+        "width": 150,
+        "font" : ["Arial", 16]
+    },
+    "trans_button" : {
+        "width": 10,
+        "height" : 1,
+        "font" : ["Arial", 14],
+        "text" : "Translate it!" 
+    }
+}
